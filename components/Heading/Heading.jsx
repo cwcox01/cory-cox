@@ -11,7 +11,12 @@ function Header() {
       <div className="ps-1 d-flex">
         <div className="headshot-img">
           <div className=" pt-2 ps-3">
-            <Image src="./img/cory-headshot.png" alt="Cory Cox Headshot" />
+            <Image
+              src="/img/cory-headshot.png"
+              alt="Cory Cox Headshot"
+              width="170"
+              height="170"
+            />
           </div>
         </div>
         <div>
