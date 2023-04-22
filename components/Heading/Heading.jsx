@@ -8,7 +8,7 @@ import HeadingintroItem from "./HeadingintroItem";
 function Header() {
   return (
     <div className="header" id="about-cory">
-      <div className="ps-1 d-flex">
+      <div className=" cory-bio ps-1 d-flex">
         <div className="headshot-img">
           <div className=" pt-2 ps-3">
             <Image

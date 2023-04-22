@@ -254,6 +254,14 @@ footer {
     justify-content: center;
   }
 
+  .cory-bio {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header-info {
+    padding-top: 1rem;
+  }
   /* social media nav bar mobile settings */
 
   .socialmedia-navbar {

@@ -6,7 +6,7 @@ export default function HeadingintroItem({
   headingIntro,
 }) {
   return (
-    <div className="ps-5 header-info">
+    <div className="ps-5 header-info cory-bio">
       <h1>{headingName}</h1>
       <p>
         <em>{headingJobTitle}</em>
