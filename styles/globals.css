@@ -262,13 +262,11 @@ footer {
   .header-info {
     padding-top: 1rem;
   }
+
   /* social media nav bar mobile settings */
 
   .socialmedia-navbar {
-    display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    margin-left: auto;
   }
 
   .socialmedia-navbar li {
